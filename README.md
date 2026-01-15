@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
