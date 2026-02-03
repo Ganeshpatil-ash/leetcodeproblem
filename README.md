@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
@@ -82,4 +84,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
