@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0217-contains-duplicate) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
