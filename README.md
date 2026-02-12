@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0189-rotate-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
