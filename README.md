@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0219-contains-duplicate-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
