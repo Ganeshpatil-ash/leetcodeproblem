@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0023-merge-k-sorted-lists) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
