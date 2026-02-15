@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 ## String
