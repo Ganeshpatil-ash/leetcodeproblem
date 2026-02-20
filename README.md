@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -150,5 +152,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
