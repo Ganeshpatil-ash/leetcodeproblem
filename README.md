@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
 ## Counting
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
