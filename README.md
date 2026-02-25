@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -145,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0169-majority-element) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Sliding Window
 |  |
 | ------- |
