@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0344-reverse-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Linked List
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
