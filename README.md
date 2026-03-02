@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1480-running-sum-of-1d-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1480-running-sum-of-1d-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
 |  |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Backtracking
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0037-sudoku-solver) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Simulation
 |  |
 | ------- |
