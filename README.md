@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/2965-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0037-sudoku-solver) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
