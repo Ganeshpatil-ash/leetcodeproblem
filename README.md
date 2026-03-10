@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0219-contains-duplicate-ii) |
