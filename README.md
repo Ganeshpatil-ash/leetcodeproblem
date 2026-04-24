@@ -206,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
