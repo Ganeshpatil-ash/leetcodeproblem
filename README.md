@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Linked List
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0175-combine-two-tables) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
