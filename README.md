@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0044-wildcard-matching) |
 | [0087-scramble-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0087-scramble-string) |
 | [0125-valid-palindrome](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0125-valid-palindrome) |
@@ -229,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
