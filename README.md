@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
