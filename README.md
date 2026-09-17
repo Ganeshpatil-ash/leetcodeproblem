@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0771-jewels-and-stones) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0344-reverse-string) |
+| [0771-jewels-and-stones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
