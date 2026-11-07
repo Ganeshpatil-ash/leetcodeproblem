@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0771-jewels-and-stones) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -299,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Ganeshpatil-ash/leetcodeproblem/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
